@@ -4,8 +4,8 @@
   <artifactId>JavaFXTemplate</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   
-  <name>JavaFXTemplate</name>
-  <description>Plantilla para proyectos JavaFX</description>
+  <name>GsonSample</name>
+  <description>Práctica json</description>
   
   <properties>
 		<maven.compiler.target>14</maven.compiler.target>
